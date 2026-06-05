@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Srishti 👋
 
-<!--
-**srishti-gururaj/srishti-gururaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+📍 Udupi, Karnataka, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- Python
+- Machine Learning
+- Data Structures
+- Git & GitHub
+
+💻 Skills
+
+- Python
+- Java
+- C Programming
+- HTML & CSS
+
+🎯 Goals
+
+- Build AI & ML Projects
+- Improve Problem-Solving Skills
+- Learn New Technologies
+- Create a Professional Portfolio
+
+🚀 Passionate about Technology and Continuous Learning
+
+✨ Learning one project at a time.
